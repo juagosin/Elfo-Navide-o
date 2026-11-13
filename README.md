@@ -1,135 +1,163 @@
-# Política de Privacidad
+# Política de Privacidad de Elfos traviesos
 
-Fecha de entrada en vigor: 27 de septiembre de 2026
+**Última actualización: 13 de noviembre de 2026**
 
-Esta Política de Privacidad describe cómo la aplicación **Elfos Navideños** recopila, utiliza y protege la información de los usuarios.
+Esta Política de Privacidad describe cómo la aplicación móvil **Elfos traviesos**, con identificador de paquete **com.calleserpis.elfonavidenyo**, recopila, utiliza, almacena y protege la información de sus usuarios.
 
-## Responsable de la aplicación
+## Identidad del responsable
 
-Elfos Navideños es una aplicación móvil destinada a ofrecer ideas, escenas y sugerencias creativas relacionadas con la tradición del elfo navideño.
+**Nombre de la aplicación:** Elfos traviesos  
+**Identificador de paquete:** com.calleserpis.elfonavidenyo  
+**Desarrollador y responsable:** Juan Gomez Sintes  
+**Correo electrónico de contacto:** one.es.fabuloso@gmail.com  
 
-Si necesitas contactar con el responsable de la aplicación, puedes hacerlo a través del correo electrónico indicado en la ficha de Google Play.
+Esta información corresponde al desarrollador identificado en la ficha de **Elfos traviesos** publicada en Google Play.
 
 ## Información que recopilamos
 
-La aplicación no solicita registro de usuario ni requiere crear una cuenta.
+Elfos traviesos no requiere que el usuario cree una cuenta ni solicita un registro previo.
 
 La aplicación puede tratar los siguientes tipos de información:
 
-- Texto introducido por el usuario en la pantalla de ideas mágicas, por ejemplo materiales disponibles en casa.
-- Información técnica del dispositivo necesaria para el funcionamiento de servicios de Firebase, Google Play services, Firebase App Check y Play Integrity.
-- Información relacionada con anuncios, como identificadores publicitarios o datos técnicos usados por Google AdMob para mostrar, medir y mejorar anuncios.
-- Datos almacenados localmente en el dispositivo, como favoritos, preferencias o contador de usos diarios de determinadas funciones.
+- Texto introducido por el usuario en la función de generación de ideas, como materiales u objetos disponibles en casa.
+- Información técnica del dispositivo necesaria para el funcionamiento de Firebase, Google Play services, Firebase App Check y Google Play Integrity.
+- Información relacionada con anuncios, como identificadores publicitarios, información técnica del dispositivo y datos de interacción con los anuncios.
+- Datos almacenados localmente en el dispositivo, como ideas favoritas, preferencias y contadores de uso de determinadas funciones.
 
-## Uso de la información
+El desarrollador no solicita intencionadamente nombres, direcciones, números de teléfono, datos financieros ni otra información personal sensible.
+
+## Finalidad del tratamiento
 
 La información se utiliza para:
 
-- Mostrar ideas y contenido dentro de la aplicación.
+- Proporcionar las funciones y contenidos de la aplicación.
 - Generar sugerencias creativas mediante servicios de inteligencia artificial.
-- Proteger la aplicación frente a uso indebido, abuso automatizado o tráfico no autorizado.
-- Mostrar anuncios dentro de la aplicación.
-- Guardar preferencias locales, favoritos y límites de uso diarios.
-- Mejorar la estabilidad, seguridad y funcionamiento general de la aplicación.
+- Guardar localmente preferencias, favoritos y límites diarios de uso.
+- Mostrar y medir anuncios.
+- Prevenir abusos, accesos automatizados y usos no autorizados.
+- Verificar la integridad de la aplicación y del dispositivo.
+- Mejorar la seguridad, estabilidad y funcionamiento general de la aplicación.
+
+## Funciones de inteligencia artificial
+
+Cuando el usuario utiliza la función de generación de ideas, el texto introducido puede enviarse a servicios de **Google Firebase AI Logic o Gemini** para generar una respuesta.
+
+Esta función está diseñada para introducir únicamente materiales, objetos o elementos disponibles en casa, como papel, algodón, juguetes, caramelos o cajas.
+
+El usuario no debe introducir información personal, sensible, confidencial o perteneciente a terceros. Tampoco debe introducir información personal de menores.
+
+La información enviada a estos servicios puede ser procesada por Google de acuerdo con sus propias condiciones y políticas de privacidad.
 
 ## Servicios de terceros
 
-La aplicación utiliza servicios proporcionados por terceros. Estos servicios pueden recopilar y procesar información conforme a sus propias políticas de privacidad.
+Elfos traviesos utiliza servicios proporcionados por terceros que pueden recopilar o procesar información necesaria para prestar sus funciones.
 
-Servicios utilizados:
+Los servicios utilizados pueden incluir:
 
-- **Google Firebase**: configuración, infraestructura y servicios asociados a la aplicación.
-- **Firebase AI Logic / Gemini**: generación de ideas a partir del texto introducido por el usuario.
-- **Firebase App Check**: protección de la aplicación frente a accesos no autorizados.
-- **Google Play Integrity**: verificación de integridad de la app y del entorno de ejecución.
-- **Google AdMob**: visualización y medición de anuncios.
-- **Google Play services**: servicios técnicos necesarios para determinadas funciones de Android y Google.
+- **Google Firebase:** infraestructura, configuración y servicios asociados a la aplicación.
+- **Firebase AI Logic o Gemini:** generación de ideas a partir del texto introducido por el usuario.
+- **Firebase App Check:** protección frente a accesos no autorizados y uso indebido.
+- **Google Play Integrity:** comprobación de la integridad de la aplicación y del entorno de ejecución.
+- **Google AdMob:** presentación, limitación y medición de anuncios.
+- **Google Play services:** servicios técnicos necesarios para determinadas funciones de Android y Google.
 
-Políticas relevantes:
+Las políticas de privacidad relevantes pueden consultarse en:
 
 - Política de Privacidad de Google: https://policies.google.com/privacy
-- Firebase: https://firebase.google.com/support/privacy
-- Google AdMob: https://support.google.com/admob/answer/6128543
+- Privacidad y seguridad de Firebase: https://firebase.google.com/support/privacy
+- Privacidad de Google AdMob: https://support.google.com/admob/answer/6128543
 
-## Función de ideas mágicas e inteligencia artificial
+## Publicidad
 
-Cuando el usuario utiliza la pantalla de ideas mágicas, el texto introducido puede enviarse a servicios de Google Firebase AI Logic / Gemini para generar sugerencias.
+Elfos traviesos puede mostrar anuncios mediante Google AdMob.
 
-No introduzcas información personal, sensible, confidencial o de terceros en este campo. La función está pensada únicamente para introducir materiales u objetos disponibles en casa, como papel, algodón, juguetes, caramelos, cajas u otros elementos similares.
+Google AdMob puede recopilar información técnica del dispositivo, identificadores publicitarios, dirección IP, datos de interacción con anuncios y otra información necesaria para mostrar, limitar, medir y mejorar la publicidad.
 
-## Anuncios
+Dependiendo de la región, la configuración de consentimiento del usuario y los ajustes del dispositivo, los anuncios pueden ser personalizados o no personalizados.
 
-La aplicación puede mostrar anuncios mediante Google AdMob.
-
-Google AdMob puede recopilar información técnica del dispositivo, identificadores publicitarios, datos de interacción con anuncios y otra información necesaria para mostrar, limitar, medir y mejorar los anuncios.
-
-Dependiendo de la configuración de consentimiento, región del usuario y ajustes del dispositivo, los anuncios pueden ser personalizados o no personalizados.
-
-Puedes gestionar o limitar la personalización de anuncios desde los ajustes de Google de tu dispositivo o desde las opciones de privacidad disponibles en Android.
+El usuario puede gestionar la personalización de anuncios desde los ajustes de Google y las opciones de privacidad disponibles en su dispositivo Android.
 
 ## Almacenamiento local
 
-La aplicación puede guardar información localmente en el dispositivo, como:
+La aplicación puede almacenar localmente en el dispositivo:
 
 - Ideas marcadas como favoritas.
 - Preferencias de uso.
-- Contador de usos diarios de la función de ideas mágicas.
+- Contadores de uso diario de determinadas funciones.
 
-Estos datos se almacenan en el dispositivo y se utilizan para ofrecer funcionalidades básicas de la aplicación.
+Estos datos se utilizan para proporcionar las funciones básicas de la aplicación y permanecen en el dispositivo hasta que el usuario los elimina.
 
-Puedes eliminar estos datos desinstalando la aplicación o borrando los datos de la app desde los ajustes del dispositivo.
+El usuario puede eliminar estos datos borrando el almacenamiento de Elfos traviesos desde los ajustes de Android o desinstalando la aplicación.
 
 ## Permisos
 
-La aplicación utiliza el permiso de acceso a Internet para:
+Elfos traviesos utiliza acceso a Internet para:
 
-- Obtener respuestas de servicios de inteligencia artificial.
+- Solicitar respuestas a los servicios de inteligencia artificial.
 - Mostrar anuncios.
-- Comunicarse con servicios de Firebase y Google.
-- Verificar la integridad de la aplicación mediante App Check y Play Integrity.
+- Comunicarse con Firebase y otros servicios de Google.
+- Verificar la integridad y seguridad de la aplicación mediante Firebase App Check y Google Play Integrity.
+
+La aplicación solo solicita los permisos necesarios para proporcionar sus funciones.
+
+## Conservación y eliminación de datos
+
+Elfos traviesos no mantiene cuentas propias de usuario ni una base de datos remota de perfiles personales administrada directamente por Juan Gomez Sintes.
+
+Los datos almacenados localmente permanecen en el dispositivo hasta que el usuario:
+
+- Elimina manualmente los datos de la aplicación.
+- Desinstala la aplicación.
+- Restablece el dispositivo.
+
+Los servicios de terceros utilizados por la aplicación pueden conservar determinada información conforme a sus propias políticas, condiciones y obligaciones legales.
+
+Para solicitar información o la eliminación de datos gestionados directamente por el desarrollador, el usuario puede contactar con:
+
+**one.es.fabuloso@gmail.com**
 
 ## Menores de edad
 
-La aplicación está pensada para un uso familiar, pero no está dirigida a recopilar información personal de menores.
+Elfos traviesos está pensada para un entorno familiar, pero no está diseñada para recopilar intencionadamente información personal de menores.
 
-Los menores deben usar la aplicación bajo supervisión de un adulto. No se debe introducir información personal de menores en la aplicación, especialmente en campos de texto enviados a servicios de inteligencia artificial.
+Los menores deben utilizar la aplicación bajo la supervisión de un adulto. No debe introducirse información personal de menores en los campos de texto enviados a servicios de inteligencia artificial.
 
-## Conservación de datos
-
-La aplicación no mantiene cuentas de usuario propias ni una base de datos remota gestionada directamente por el responsable de la app.
-
-Los datos guardados localmente permanecen en el dispositivo hasta que el usuario los elimina, borra los datos de la aplicación o desinstala la app.
-
-Los servicios de terceros utilizados por la aplicación pueden conservar información conforme a sus propias políticas, términos y obligaciones legales.
+Si el desarrollador detecta que se ha recibido información personal de un menor, adoptará medidas razonables para eliminarla. Para comunicar una situación de este tipo, se puede escribir a **one.es.fabuloso@gmail.com**.
 
 ## Seguridad
 
-La aplicación utiliza servicios como Firebase App Check y Google Play Integrity para ayudar a proteger el acceso a determinadas funciones y reducir el uso indebido.
+Se aplican medidas razonables para proteger la aplicación y reducir el acceso no autorizado, incluyendo Firebase App Check y Google Play Integrity.
 
-Aunque se aplican medidas razonables de seguridad, ningún sistema es completamente seguro. Se recomienda no introducir información personal, sensible o confidencial en la aplicación.
-
-## Derechos del usuario
-
-Dependiendo de tu país o región, puedes tener derechos sobre tus datos personales, incluyendo el derecho a acceder, rectificar, eliminar, limitar u oponerte al tratamiento de tus datos.
-
-Para ejercer estos derechos, puedes contactar a través del correo electrónico indicado en la ficha de Google Play.
-
-También puedes gestionar determinados datos desde los ajustes del dispositivo, los ajustes de privacidad de Android, los ajustes de Google y las opciones de anuncios de Google.
+Sin embargo, ningún sistema de transmisión o almacenamiento de información puede garantizar una seguridad absoluta. Por este motivo, se recomienda no introducir información personal, sensible o confidencial en la aplicación.
 
 ## Transferencias internacionales
 
-Al utilizar servicios de Google y Firebase, la información puede ser procesada en servidores ubicados fuera de tu país de residencia. Google aplica medidas de protección y condiciones de tratamiento de datos conforme a la normativa aplicable.
+Al utilizar servicios proporcionados por Google y Firebase, determinada información puede ser procesada en servidores ubicados fuera del país de residencia del usuario.
+
+Google aplica sus propias medidas de protección y condiciones de tratamiento de datos de acuerdo con la legislación aplicable.
+
+## Derechos del usuario
+
+Dependiendo del país o región del usuario, este puede tener derechos relacionados con sus datos personales, incluyendo los derechos de acceso, rectificación, eliminación, limitación, oposición y portabilidad.
+
+Para realizar una consulta o ejercer estos derechos respecto a datos gestionados directamente por el desarrollador, el usuario puede contactar con:
+
+**Juan Gomez Sintes**  
+**Correo electrónico:** one.es.fabuloso@gmail.com
+
+El usuario también puede gestionar determinados datos desde los ajustes de Android, los ajustes de privacidad de Google y las opciones de publicidad de Google.
 
 ## Cambios en esta Política de Privacidad
 
-Esta Política de Privacidad puede actualizarse ocasionalmente para reflejar cambios en la aplicación, en los servicios utilizados o en requisitos legales.
+Esta Política de Privacidad puede actualizarse para reflejar cambios en Elfos traviesos, en los servicios utilizados o en los requisitos legales aplicables.
 
-Cuando se realicen cambios relevantes, se actualizará la fecha de entrada en vigor indicada al inicio del documento.
+Cuando se realicen cambios, se actualizará la fecha indicada al principio de este documento.
 
 ## Contacto
 
-Si tienes preguntas sobre esta Política de Privacidad o sobre el tratamiento de datos en la aplicación, puedes contactar mediante el correo electrónico publicado en la ficha de Google Play de Elfos Navideños.
+Para cualquier pregunta relacionada con esta Política de Privacidad o con el tratamiento de información en Elfos traviesos, puedes contactar con:
 
-## Aviso
-
-Este documento es una plantilla genérica preparada en función de las funcionalidades observadas en la aplicación. No constituye asesoramiento legal. Para publicación definitiva, especialmente si la app se distribuye en la Unión Europea, Reino Unido, Estados Unidos u otras jurisdicciones con requisitos específicos, se recomienda revisar esta política con asesoramiento legal cualificado.
+**Desarrollador:** Juan Gomez Sintes  
+**Correo electrónico:** one.es.fabuloso@gmail.com  
+**Aplicación:** Elfos traviesos  
+**Identificador de paquete:** com.calleserpis.elfonavidenyo
